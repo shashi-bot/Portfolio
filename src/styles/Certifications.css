@@ -1,0 +1,35 @@
+.certifications {
+    padding: 50px;
+    background-color: #0a192f;
+    color: #ccd6f6;
+    text-align: center;
+  }
+  
+  .certifications h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .certifications ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .certifications li {
+    margin: 20px 0;
+    padding: 15px;
+    background: #112240;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .certifications h3 {
+    font-size: 1.5rem;
+    color: #64ffda;
+  }
+  
+  .certifications p {
+    font-size: 1rem;
+    color: #a8b2d1;
+  }
+  
